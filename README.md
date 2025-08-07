@@ -1,1 +1,1 @@
-# game
+# handgesture. AI
